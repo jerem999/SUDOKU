@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SudokuV01</string>
+    <string name="title_activity_grille_sudoku">GrilleSudoku</string>
+</resources>
