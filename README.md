@@ -12,4 +12,4 @@ fenetre 3:
 la grille s'affiche avec les neuf chiffres en bas de la grille qui serviront pour l'ajout de chiffre sur la grille de sudoku.
 pour l'instant les chiffres présent dans la grille sont issus d'une chaine de charactère (chiffre de début présent sur la grille pour commencer à jouer. on peut ensuite cliquer sur les cases vides pour ajouter des chiffres en cliquant par la suite sur l'un des 9 chiffres présent en dessous de la grille de sudoku.
 
-Il reste à faire l'élément de vérification de grille pour vérifier si le résultat est correct ou non au fur et à mesure que l'on ajoute des chiffres sur la grille.
+Il reste à faire l'élément de vérification de grille pour vérifier si le résultat est correct ou non, au fur et à mesure que l'on ajoute des chiffres sur la grille.
